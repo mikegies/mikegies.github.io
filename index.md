@@ -1,6 +1,3 @@
-<IDOCTYPE.html>
-<html>
-<body>
 <h1>Hello World</h1>
 <p1>       This is a short comic strip of my old childhood dog Slider. Slider was my whole world and my best bud. Here is to all the steak, macaroni, peanut butter, ripped socks, stolen shoes and endless walks around the block to last a life time! Our family was so lucky to have someone so special growing up, rest easy Slidog! </p1>
 <iframe src="//www.pixton.com/embed/pubpukp2" frameborder="0" width="140%" height="384" allowfullscreen></iframe>
