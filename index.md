@@ -8,4 +8,5 @@
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1LBvh-aDu9i7kFDW93qeU78kp_r4LDVR1avIsHNVGmrU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
 <h2> Map Chart </h2>
 <p3> Using tableau, I created a map of some of the top California sport stadiums. I am originally from New Jersey, which is a little funny, but have had my mind set on moving to California since the 9th grade. Along with that reason, I'm also a huge sports junky that can never get enough. </p3>
+
 [Stadiums in Cali](https://mikegies.github.io/bigcalistadiums.html)
