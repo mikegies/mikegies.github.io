@@ -7,3 +7,4 @@
 <p3> Using tableau, I created a map of some of the top California sport stadiums. I am originally from New Jersey, which is a little funny, but have had my mind set on moving to California since the 9th grade. Along with that reason, I'm also a huge sports junky that can never get enough. </p3>
 
 [Stadiums in Cali](https://mikegies.github.io/bigcalistadiums.html)
+
