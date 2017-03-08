@@ -12,3 +12,9 @@
 <p4>  Adding on to my love for sports, I created a visual to show the top 10 most paid athletes in 2016. I collected all the data and made a set on excel. Then I transferred the files over to Tableau to make the actual finished product. These 10 athletes are from all kinds of sports and strictly on their wealth. These men made fortunes through their salary, pay and endorsements and thought it would be interesting to show to the world, as well as being a cool viewing for my github portfolio. </p4>
 
 [Top Paid Athletes](https://mikegies.github.io/TopAthletes.html)
+
+<h4> Lehigh Colleges Enrollment </h4>
+<p5> My project here is more of an educational piece. I collected the data for Lehigh colleges enrollments and made it into a bar chart. For those of you who didn't know, Lehigh has six different schools you can apply for. This wil show the percentage of the students in each school within Lehigh. Below is the link to my visual I created in Chartbuilder. </p5>
+
+[LU College Enrollments](https://mikegies.github.io/LEP.html)
+
