@@ -1,5 +1,5 @@
 <h1>Hello World</h1>
-<p1>      I'm Mike Gies from Hopewell Valley, New Jersey, and now attend Lehigh University. I play football here at lehigh and am a Journalism major with a minor in Real Estate. I am a huge sports junky, love writing and dogs. Throughout my portfolio you will see projects that I believe represent me. It shows a little about my life, my hobbies and my personality. </p1>
+<p1>      I'm Mike Gies from Hopewell Valley, New Jersey, and now attend Lehigh University. I play football here at lehigh and am a Journalism major with a minor in Real Estate. I am a huge sports junky, love writing and dogs. My life time goal is to create a site or work for one like Barstool Sports. Throughout my portfolio you will see projects that I believe represent me. It shows a little about my life, my hobbies and my personality. </p1>
 <br>
 <h2> Best Buds For Life </h2>
 <p2>      This is a short comic strip of my old childhood dog Slider. Slider was my whole world and my best bud. Here is to all the steak, macaroni, peanut butter, ripped socks, stolen shoes and endless walks around the block to last a life time! Our family was so lucky to have someone so special growing up, rest easy Slidog! </p2>
